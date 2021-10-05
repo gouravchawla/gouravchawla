@@ -30,9 +30,9 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravchawla&show_icons=true&locale=en&layout=compact" alt="gouravchawla" /></p>
 <br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravchawla&show_icons=true&locale=en" alt="gouravchawla" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gouravchawla&show_icons=true&locale=en" alt="gouravchawla" /></p>
 <br><br>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravchawla&" alt="gouravchawla" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravchawla&" alt="gouravchawla" /></p>
 <br><br>
 
 ## ❤ Views and Followers

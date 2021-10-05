@@ -49,7 +49,10 @@
 
 <img alt="My Github stats" align="center" border-radius="40px" width="1000px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravchawla&layout=compact" alt="GOURAV-CHAWLA" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravchawla&show_icons=true&locale=en&layout=compact" alt="gouravchawla" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravchawla&show_icons=true&locale=en&layout=compact" alt="gouravchawla" /> -->
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravchawla334&show_icons=true&locale=en&layout=compact" alt="GOURAV-CHAWLA" />
+
 
 <br><br><br><br><br><br><br><br>
 

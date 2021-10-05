@@ -43,9 +43,6 @@
 
 </p>
 
-
-<br><br><br><br><br><br><br><br>
-
 ## ❤ Views and Followers
 <a href="https://github.com/gouravchawla/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=gouravchawla">

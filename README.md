@@ -51,7 +51,7 @@
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravchawla&show_icons=true&locale=en&layout=compact" alt="gouravchawla" /> -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravchawla334&show_icons=true&locale=en&layout=compact" alt="GOURAV-CHAWLA" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravchawla334&show_icons=true&locale=en&layout=compact" alt="GOURAV-CHAWLA" /> -->
 
 
 <br><br><br><br><br><br><br><br>

@@ -1,4 +1,4 @@
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gourav </h1>
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "30px">, I'm Gourav </h1>
 <img src="https://i.imgur.com/iXuL1HG.png" alt="GOURAV-CHAWLA" />
 
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>

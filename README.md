@@ -11,19 +11,7 @@
 
 - 💁‍♀️ **All of my projects are available at [here](https://github.com/gouravchawla334?tab=repositories)**
 
-- 📫 **Reach me at gouravchawla333@gmail.com**
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouravchawla" alt="gouravchawla" /></a> </p>
-<h3 align="left">✔️Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gourav-chawla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav-chawla" height="30" width="40" /></a>
-<a href="https://instagram.com/GOURAVCHAWLA334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GOURAVCHAWLA334" height="30" width="40" /></a>
- <a href="https://www.facebook.com/gouravchawla334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gouravchawla334" height="30" width="40" /></a>
- <a href="https://github.com/gouravchawla334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gouravchawla334" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/gouravchawla334?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gouravchawla334" height="30" width="40" /></a>
-<a href="https://discord.gg/7595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7595" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCzfvycWM0waQpfA4QgRKf_Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="7595" height="30" width="40" /></a></p>
-<br>
 
 ### Languages and Tools:
 <p align="left"> 
